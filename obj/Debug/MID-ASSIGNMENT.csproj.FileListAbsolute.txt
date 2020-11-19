@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\MID-ASSIGNMENT\MID-ASSIGNMENT\bin\Debug\MID-ASSIGNMENT.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\MID-ASSIGNMENT\MID-ASSIGNMENT\obj\Debug\MID-ASSIGNMENT.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\MID-ASSIGNMENT\MID-ASSIGNMENT\bin\Debug\MID-ASSIGNMENT.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\MID-ASSIGNMENT\MID-ASSIGNMENT\bin\Debug\MID-ASSIGNMENT.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\MID-ASSIGNMENT\MID-ASSIGNMENT\obj\Debug\MID-ASSIGNMENT.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\MID-ASSIGNMENT\MID-ASSIGNMENT\obj\Debug\MID-ASSIGNMENT.pdb
